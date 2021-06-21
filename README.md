@@ -34,5 +34,12 @@ Check out my Projects
 <br>
 
 <!--START_SECTION:waka-->
+```text
+HTML     2 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   31.66 % 
+CSS      1 hr 43 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.49 % 
+Python   1 hr 43 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.43 % 
+Text     1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Other    49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+```
 <!--END_SECTION:waka-->
 
