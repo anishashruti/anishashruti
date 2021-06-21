@@ -32,3 +32,7 @@ Check out my Projects
 <img height="200px" width="400px" alt="anishashruti's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=anishashruti&theme=tokyonight"/> &ensp;
 
 <br>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
