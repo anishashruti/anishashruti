@@ -3,16 +3,17 @@
 <p align="center">
 <a href="https://anisha.hashnode.dev/" target="blank"><img alt="Hashnode" img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/anisha-shruti-a-t-72a409202/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
-<a href="https://twitter.com/maartengr" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
+<a href="https://twitter.com/AnishaShruti" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
 
 </p>
 
 
 ### Hi there 👋
 
+### Chack out my Projects
 <details>
 <summary>
-Check out my Projects 
+Django Projects 
 </summary>
   
   
@@ -29,9 +30,15 @@ Check out my Projects
 
 <br>
 
-<img height="200px" width="400px" alt="anishashruti's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=anishashruti&theme=tokyonight"/> &ensp;
+### ⚙️ &nbsp;GitHub Analytics
 
-<br>
+<p align="center">
+<a href="https://github.com/anishashruti">
+   <img height="200px" width="400px" alt="anishashruti's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=anishashruti&theme=tokyonight"/> &ensp;
+   <img width="400px" alt="anishashruti's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/username=anishashruti&layout=compact&theme=tokyonight"/> &ensp;
+</a>
+</p>
+
 
 <!--START_SECTION:waka-->
 ```text
@@ -42,4 +49,5 @@ Text     1 hr 11 mins    ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Other    49 mins         ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.29 % 
 ```
 <!--END_SECTION:waka-->
+
 
