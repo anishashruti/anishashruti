@@ -35,7 +35,7 @@ Django Projects
 <p align="center">
 <a href="https://github.com/anishashruti">
    <img height="200px" width="400px" alt="anishashruti's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=anishashruti&theme=tokyonight"/> &ensp;
-   <img width="400px" alt="anishashruti's Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/username=anishashruti&layout=compact&theme=tokyonight"/> &ensp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anishashruti&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 
