@@ -41,8 +41,6 @@ HTML   1 hr 11 mins    ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 
-### Chack out my Projects
-
 Django Projects 
 
   
