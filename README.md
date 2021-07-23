@@ -1,4 +1,3 @@
-<img alt="My banner" src="https://github.com/anishashruti/anishashruti/blob/main/Developer-github-banner.gif"/> &ensp;
 
 <p align="center">
 <a href="https://anisha.hashnode.dev/" target="blank"><img alt="Hashnode" img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
