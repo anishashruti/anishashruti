@@ -14,6 +14,9 @@
  
 [Portfolio]( https://anishashruti.github.io/Portfolio/#/)
 
+![](https://komarev.com/ghpvc/?username=your-github-anishashruti&style=plastic&label=PROFILE+VIEWS&color=yellow)
+
+
 <br>
 
 <a href="https://github.com/anishashruti/github-readme-activity-graph"><img alt="anishashruti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anishashruti&bg_color=00001A&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=false&theme=tokyonight" /></a>
