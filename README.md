@@ -36,8 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-CSS    20 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀   75.01 % 
-HTML   6 mins          ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.99 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
