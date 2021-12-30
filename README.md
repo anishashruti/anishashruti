@@ -36,7 +36,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
