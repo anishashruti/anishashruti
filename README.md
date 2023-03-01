@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://anisha.hashnode.dev/" target="blank"><img alt="Hashnode" img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/anisha-shruti-a-t-72a409202/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
+<a href="https://www.linkedin.com/in/anisha-shruti-a-t-72a102245" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
 <a href="https://twitter.com/AnishaShruti" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
 
 </p>
@@ -10,8 +10,15 @@
 
 ### Hi there 👋
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU1N2JjNGRlNjdjZmFhMDExOTBmMWExNmQwYzdiNGZmNzBjMmRjNyZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="385px" align="center">
+
+
+
+
+
 #### I am a self taught web developer still learning new skills by creating new projects.
- 
+#### Currently I am exploring Blockchain world
+
 [Portfolio]( https://anishashruti.github.io/Portfolio/#/)
 
 ![](https://komarev.com/ghpvc/?username=your-github-anishashruti&style=plastic&label=PROFILE+VIEWS&color=yellow)
@@ -24,7 +31,7 @@
 
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
+'''' ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/anishashruti">
