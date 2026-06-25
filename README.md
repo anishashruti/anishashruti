@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/55/3b/cd/553bcd3271ec71e62b479edfeb5fe109.gif" width="360px" alt="anisha gif"/>
+  <img src="https://i.pinimg.com/originals/55/3b/cd/553bcd3271ec71e62b479edfeb5fe109.gif" width="600px" alt="anisha gif"/>
 </p>
 
 <p align="center">
@@ -16,15 +16,16 @@
 
 ### Hi there, I'm Anisha 👋
 
-I'm a **Business Analyst & Agentic AI Builder** — MSBA grad from
+I'm a **Business Analyst & Agentic AI Builder** with a CS foundation, working at the intersection of data, automation, and AI — designing agentic workflows that actually solve real problems.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/UC_San_Diego_wordmark.svg/1200px-UC_San_Diego_wordmark.svg.png" width="160px" alt="UC San Diego"/>
+<p align="center">
+  <img width="300" alt="UC San Diego" src="https://github.com/user-attachments/assets/a2b0efa7-c5ec-454d-9808-ce0adca0be4f" />
+  <br/>
+  <sub>Master of Science in Business Analytics · Rady School of Management</sub>
+</p>
 
-(Rady School of Management) with a CS foundation. I work at the intersection of data, automation, and AI: designing agentic workflows that actually solve real problems.
+When I'm not building agents, I'm watercolor painting, making ceramics, tending my garden, and baking bread 
 
-When I'm not building agents, I'm watercolor painting, making ceramics, tending my garden, baking bread, and vlogging life in San Diego 🌿
-
----
 
 ### What I'm Building Now
 
