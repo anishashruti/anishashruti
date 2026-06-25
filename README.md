@@ -1,74 +1,87 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/55/3b/cd/553bcd3271ec71e62b479edfeb5fe109.gif" width="360px" alt="anisha gif"/>
+</p>
 
 <p align="center">
-<a href="https://anisha.hashnode.dev/" target="blank"><img alt="Hashnode" img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/anisha-shruti-a-t-72a102245" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
-<a href="https://twitter.com/AnishaShruti" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-A7C0FF?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/maartengr" alt="maartengrootendorst"/></a>
-
+  <a href="https://www.linkedin.com/in/anisha-shruti-a-t/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://anishashruti.github.io/Portfolio" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-4A7C59?style=for-the-badge&logo=leaf&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<br>
+---
 
-### Hi there 👋
+### Hi there, I'm Anisha 👋
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDU1N2JjNGRlNjdjZmFhMDExOTBmMWExNmQwYzdiNGZmNzBjMmRjNyZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="385px" align="center">
+I'm a **Business Analyst & Agentic AI Builder** — MSBA grad from
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/UC_San_Diego_wordmark.svg/1200px-UC_San_Diego_wordmark.svg.png" width="160px" alt="UC San Diego"/>
 
+(Rady School of Management) with a CS foundation. I work at the intersection of data, automation, and AI: designing agentic workflows that actually solve real problems.
 
+When I'm not building agents, I'm watercolor painting, making ceramics, tending my garden, baking bread, and vlogging life in San Diego 🌿
 
+---
 
-#### I am a self taught web developer still learning new skills by creating new projects.
-#### Currently I am exploring Blockchain world
+### What I'm Building Now
 
-[Portfolio]( https://anishashruti.github.io/Portfolio/#/)
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**GlowUpBuddy**](https://github.com/anishashruti/glowupbuddy) | A deployed AI personal growth companion — send a morning voice note to Telegram, get a mood-aware day plan. Built for the Google Rapid Agent Hackathon. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white) |
+| **SoftSpend** *(In Progress)* | OCR receipt-tracking app for personal finance | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
-![](https://komarev.com/ghpvc/?username=your-github-anishashruti&style=plastic&label=PROFILE+VIEWS&color=yellow)
+---
 
+### 🛠️ Skills & Tools
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<a href="https://github.com/anishashruti/github-readme-activity-graph"><img alt="anishashruti's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anishashruti&bg_color=00001A&color=FFFFFF&line=F85D7F&point=FFFFFF&hide_border=false&theme=tokyonight" /></a>
-</p>
+---
 
-<br>
+### Earlier Projects
 
-'''' ⚙️ &nbsp;GitHub Analytics
+<details>
+<summary>Django Projects</summary>
 
-<p align="center">
-<a href="https://github.com/anishashruti">
-   <img height="200px" width="400px" alt="anishashruti's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=anishashruti&theme=tokyonight"/> &ensp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anishashruti&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
-
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-Django Projects 
-
-  
 | Project | Tags |
 | --- | --- |
-| [**Network**: A site where users can share posts](https://github.com/anishashruti/Network) | <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/><img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>|
-| [**Wikimedia**: A Wikipedia-like online encyclopedia](https://github.com/anishashruti/Wikimedia) | <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/><img alt="Markdown" src ="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>|
- | [**Helping Hands**: A Donation site](https://github.com/anishashruti/Helping-Hands) | <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>|
-  
-  <summary>
-React Projects 
-</summary>
-  
-  
+| [**Network**: Social media app](https://github.com/anishashruti/Network) | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
+| [**Wikimedia**: Wikipedia-like encyclopedia](https://github.com/anishashruti/Wikimedia) | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |
+| [**Helping Hands**: Donation site](https://github.com/anishashruti/Helping-Hands) | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) |
+
+</details>
+
+<details>
+<summary>React Projects</summary>
+
 | Project |
 | --- |
-| [**Shinobi-Info-Cards**: Naruto ](https://github.com/anishashruti/Shinobi-Info-Cards) | 
-| [**Type Test**: Test your Typing skills ](https://github.com/anishashruti/Type-Test) |
-| [**Movie Buff**: A Guessing Game ](https://github.com/anishashruti/moviebuff_game) | 
+| [**Shinobi-Info-Cards**: Naruto character cards](https://github.com/anishashruti/Shinobi-Info-Cards) |
+| [**Type Test**: Typing speed test](https://github.com/anishashruti/Type-Test) |
+| [**Movie Buff**: Film guessing game](https://github.com/anishashruti/moviebuff_game) |
 
-<br>
+</details>
 
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anishashruti&show_icons=true&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishashruti&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  Made with 🌿 by Anisha &nbsp;|&nbsp; <a href="https://anishashruti.github.io/Portfolio">Portfolio</a>
+</p>
